@@ -1,0 +1,5 @@
+https://nodejs.org/en/
+
+https://firebase.google.com/products/firestore?gclid=EAIaIQobChMIg7ysoICG_QIVCzyRCh2IVAJGEAAYASAAEgJSzfD_BwE&gclsrc=aw.ds&hl=pt-br
+
+https://www.apachefriends.org/pt_br/index.html
